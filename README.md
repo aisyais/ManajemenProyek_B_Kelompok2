@@ -55,7 +55,7 @@ TaduLapor adalah sebuah platform pelaporan mahasiswa Universitas Tadulako. Siste
 ## ⚙️ Teknologi yang Digunakan
 - **Framework**: Laravel
 - **Database**: MySQL
-- **Frontend**: Bootstrap, Blade Template
+- **Frontend**:Blade Template
 - **Version Control**: GitHub
 
 ## 📁 Struktur Folder
