@@ -7,21 +7,21 @@ TaduLapor adalah sebuah platform pelaporan mahasiswa Universitas Tadulako. Siste
 - Sistem menyediakan riwayat dan status laporan
 
 ## 👥 Peran Tim
-### Project Manager (042)
+### Project Manager (Nur Aisyah_F55123042)
 - Menentukan ruang lingkup proyek
 - Menyusun timeline dan dokumentasi
 - Mengatur komunikasi tim dan review fitur
 
-### UI/UX Designer (009)
+### UI/UX Designer (Siti Nurvatika_F55123009)
 - Mendesain antarmuka pengguna
 - Membuat wireframe dan mockup
 - Menyusun alur interaksi pengguna
 
-### Database Master (050)
+### Database Master (Aidil Ramadhan_F55123050)
 - Merancang struktur database dan ERD
 - Menyusun query dan menjaga integritas data
 
-### Full Stack Developer (037)
+### Full Stack Developer (Moh Maulana Yahya_F55123037 & Chairul Muluk_F55119113)
 - Backend dengan Laravel
 - Frontend dengan Blade Template
 - Testing dan debugging
