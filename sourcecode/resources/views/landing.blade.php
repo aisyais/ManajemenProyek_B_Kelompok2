@@ -126,15 +126,15 @@
       <h3>Mengapa Memilih TaduLapor</h3>
       <div class="feature-grid">
         <div class="feature">
-          <img src="feature1.jpg" alt="Pelaporan Cepat & Mudah">
+          <img src="{{ asset('images/LaporCepat.jpeg') }}" alt="Pelaporan Cepat & Mudah">
           <p>Pelaporan Cepat &amp; Mudah</p>
         </div>
         <div class="feature">
-          <img src="feature2.jpg" alt="Data Terjamin Aman">
+          <img src="{{ asset('images/DataAman.jpeg') }}" alt="Data Terjamin Aman">
           <p>Data Terjamin Aman</p>
         </div>
         <div class="feature">
-          <img src="feature3.jpg" alt="Khusus Mahasiswa">
+          <img src="{{ asset('images/KhususMahasiswaTadulako.jpeg') }}" alt="Khusus Mahasiswa">
           <p>Khusus Mahasiswa Universitas Tadulako</p>
         </div>
       </div>
